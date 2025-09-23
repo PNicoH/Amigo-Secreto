@@ -1,3 +1,5 @@
+![ImagenAmiSec](https://github.com/user-attachments/assets/9c1867d2-13dc-4b2a-8a09-4cd7d2fb67c2)
+
 <em> #AmigoSecreto </em>
 
 *[Descripción del proyecto](#descripción-del-proyecto)
